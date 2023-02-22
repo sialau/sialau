@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Laura García 👋  
+
+🏢 I'm working as an O365 consultant in Plain Concepts.
+📖 I’m currently learning how to change career paths and not die trying.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sialau&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sialau&layout=compact)](https://github.com/sialau/github-readme-stats)
+
 
 <!--
 **sialau/sialau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
