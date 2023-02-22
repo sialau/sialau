@@ -1,6 +1,6 @@
 ### Hi there! I'm Laura García 👋  
 
-🏢 I'm working as an O365 consultant in Plain Concepts.
+🏢 I'm working as an O365 consultant in Plain Concepts.  
 📖 I’m currently learning how to change career paths and not die trying.
 
 
